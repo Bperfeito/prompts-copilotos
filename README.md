@@ -1,4 +1,4 @@
-📚 Estudar
+#📚 Estudar
 O modo Study é focado em aprendizagem ativa , não só em chegar à resposta ou ao código final.
 
 Em vez de simplesmente explicar ou executar, ele:
